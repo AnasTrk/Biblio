@@ -19,4 +19,4 @@ Route::get('/', function () {
 Route::get('/{id}',function($id){
     return view('myId',['id'=> $id]);
 });
- //daba hani zedt hed l commantaire hena 
+ //daba hani zedt hed l commantaire hena fdsf
